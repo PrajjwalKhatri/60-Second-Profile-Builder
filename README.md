@@ -1,6 +1,7 @@
 # 60-Second Exhibitor Profile & Product Catalog Builder
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/PrajjwalKhatri/60-Second-Profile-Builder/pulls)
+
 An AI-powered tool that helps exhibitors create stunning profiles and product catalogs in under 60 seconds through multiple input methods.
 ### Team
 - Abhishek Jangra
